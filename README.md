@@ -1,5 +1,5 @@
 # novsync
-A TAIHEN plugin for automatically disabling vsync on game startup on a per game basis
+A TAIHEN plugin for automatically disabling vsync on game startup on a per game basis on the PS VITA
 
 Based on Electry's VGi functionality for disabling vsync
 
