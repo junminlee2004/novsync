@@ -17,4 +17,5 @@ ur0:tai/novsync.suprx
 
 RESTART YOUR VITA
 
-Buy me a Kofi here -> https://ko-fi.com/junminlee2004
+**Support my project here ->** https://gofund.me/3340f1576
+
